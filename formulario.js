@@ -1,6 +1,6 @@
 const formulario = document.getElementById('formulario');
 const inputs = document.querySelectorAll('#formulario input');
-
+const span_cb_validation=document.getElementById("checkbox_validaton");
 
 //me traje el formulario completo y sus inputs
 
